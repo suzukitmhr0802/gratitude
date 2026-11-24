@@ -1,0 +1,8 @@
+{
+  "name": "からだへの感謝ワーク",
+  "description": "自分のからだの機能に注目し感謝をする対話アプリ",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
